@@ -14,6 +14,8 @@ Miscellaneous code that isn't a basic example or a finished project but is still
 3. Project:
 A finished project meant to do something awsome.
 
+I use the Raspberry Pi for all my projects .
+
 This is a constant work in progress, but only finished code and projects will be posted. If you wish to get in contact with me
 you can reach me at RobotBuild24.7@gmail.com
 Thanks for stopping by!
